@@ -1,2 +1,2 @@
-192.168.0.140
-192.168.0.107
+192.168.0.140 ansible_connection=ssh ansible_user=halim
+192.168.0.107 ansible_connection=ssh ansible_user=halim
