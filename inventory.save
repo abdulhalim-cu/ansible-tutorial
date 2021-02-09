@@ -1,0 +1,3 @@
+192.168.0.140 ansible_connection=ssh ansible_user=halim
+
+192.168.0.107
